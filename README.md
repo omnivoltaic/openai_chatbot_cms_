@@ -38,6 +38,6 @@ You can change the content by copying any text of less than one page and insert 
 ```
 
 ```
-  python application_name.py
+  python chatbot.py
 ```
 
