@@ -21,7 +21,7 @@ clone the repo
 cd project name
 
 ```
-  cd Evans-musamia/openai_chatbot_cms_
+  cd openai_chatbot_cms_
 ```
 
 
