@@ -15,13 +15,13 @@ For this project, we will not dive much into vectordatabase, since we will only 
 clone the repo
 
 ```
-  https://github.com/Evans-musamia/Question-and-answer-using-document.git
+  https://github.com/Evans-musamia/openai_chatbot_cms_.git
 ```
 
 cd project name
 
 ```
-  cd Question-and-answer-using-document
+  cd Evans-musamia/openai_chatbot_cms_
 ```
 
 
