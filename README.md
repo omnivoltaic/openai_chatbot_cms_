@@ -9,6 +9,11 @@ For this project, we will not dive much into vectordatabase, since we will only 
 ## Pre requisites
 - python 3.9+
 - vs Code
+- Visual Studio Build Tools-latest.
+
+  ```
+   https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  ```
 
 ## Project setup
 
