@@ -10,6 +10,7 @@ For this project, we will not dive much into vectordatabase, since we will only 
 - python 3.9+
 - vs Code
 - Visual Studio Build Tools-latest.
+  Download and install using the link below.
 
   ```
    https://visualstudio.microsoft.com/visual-cpp-build-tools/
