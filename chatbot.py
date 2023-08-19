@@ -1,5 +1,5 @@
 from langchain.llms import OpenAI
-llm = OpenAI(temperature=0, openai_api_key="openai_api_keys")
+llm = OpenAI(temperature=0, openai_api_key="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")
 context = """Omnivoltaic Energy Solutions Company Limited
 HQ office: FLAT C, 9/F, WINNING HOUSE, NO.72-74, 
 WING LOK STREET SHEUNG WAN, HONG KONG
